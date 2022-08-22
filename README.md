@@ -18,6 +18,7 @@ to make urself admin go back into ur db after registering and set your group_id 
 if u need help add me on discord noodle#3846
 
 you can also purchase additional packages from me. (add me on discord for this)
+
 I setup the forum for you - $9.99
 
 Safe source with no vulnerabilities - $89.99
