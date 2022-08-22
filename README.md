@@ -1,5 +1,5 @@
 # gamesense-forum-2018
-this is the 2018 style gamesense forum src
+this is the 2018 style gamesense forum src.
 
 info!!!
 if you are going to seriously use this you need to fix the vulnerabilities or motify will deface it
